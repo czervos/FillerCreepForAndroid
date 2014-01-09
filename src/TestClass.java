@@ -1,4 +1,6 @@
-// some comment
+/*
+ * Some C style comments
+ */
 
 public class TestClass
 {
