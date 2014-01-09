@@ -1,6 +1,10 @@
 # https://github.com/github/gitignore/blob/master/Android.gitignore
 # Android.gitignore - 2014 - 01 - 09
 
+
+# Ignore all backup files
+*~
+
 # built application files
 *.apk
 *.ap_
